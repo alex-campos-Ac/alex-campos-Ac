@@ -14,7 +14,7 @@
 - 🧠 Explorando redes neurais e visão computacional
 
 ### 📈 Repositórios em Destaque
-- [Curso de Python - Exercícios](https://github.com/alex-campos-Ac/Curso_Python_DSA)
+- [Analise de Dados](https://github.com/alex-campos-Ac/Curso_Python_DSA)
 - [Projetos de Machine Learning](https://github.com/alex-campos-Ac/Curso_Machine_Learning_Vai_Na_Web)
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
 
