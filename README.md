@@ -1,7 +1,7 @@
 
 # 👋 Olá! Eu sou o Alex Campos
 
-🎓 Estudante de Tecnologia, em transição para a área de Machine Learning.  
+🎓 Estudante de Tecnologia.  
 📌 No momento, estou focado em JAVA, Python, Machine Learning e Projetos Práticos.  
 💡 Já estudei algoritmos como KNN, K-Means, CNN e Regressão Linear.  
 
