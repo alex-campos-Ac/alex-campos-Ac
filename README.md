@@ -14,7 +14,7 @@ Versionamento: Git e GitHub
 
 ### 📈 Repositórios em Destaque
 - [Analise de Dados](https://github.com/alex-campos-Ac/Curso_Python_DSA)
-- [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
+- [Outras projetos (Java)](https://github.com/SEU-USUARIO/projetos-pessoais)
 
 
 
