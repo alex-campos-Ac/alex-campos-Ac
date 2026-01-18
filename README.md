@@ -14,8 +14,7 @@ Versionamento: Git e GitHub
 
 ### 📈 Repositórios em Destaque
 - [Analise de Dados](https://github.com/alex-campos-Ac/Analise-de-Dados)
-- [Outras projetos (Java)](https://github.com/SEU-USUARIO/projetos-pessoais)
-
+- [Outras projetos (Java)](https://github.com/alex-campos-Ac/Bootcamp-dio-projeto-java-Conta-Bancaria)
 
 
 
