@@ -3,17 +3,17 @@
 📊 Aspirante a Analista de Dados
 Atualmente focado em desenvolver projetos práticos com Python, SQL e ferramentas de visualização para transformar dados em insights acionáveis. Tenho estudado temas como limpeza de dados, análise exploratória (EDA) e construção de dashboards interativos  
 
-### 🚀 Minhas Trilhas de Estudo
-- ☕ Iniciando com Java
-- 🟩 Spring Boot
-- 📘 Python Profissional
-- 🤖 Machine Learning com projetos
-- 📊 Projetos com Pandas, Scikit-Learn e APIs
-- 🧠 Explorando redes neurais e visão computacional
+### 🛠️ Tecnologias e Ferramentas
+Linguagens: Python, SQL
+
+Bibliotecas: pandas, numpy, matplotlib, seaborn, scikit-learn
+
+Ambiente: Jupyter Notebook, Google Colab
+
+Versionamento: Git e GitHub
 
 ### 📈 Repositórios em Destaque
 - [Analise de Dados](https://github.com/alex-campos-Ac/Curso_Python_DSA)
-- [Projetos de Machine Learning](https://github.com/alex-campos-Ac/Curso_Machine_Learning_Vai_Na_Web)
 - [Portfólio de Projetos Pessoais](https://github.com/SEU-USUARIO/projetos-pessoais)
 
 
