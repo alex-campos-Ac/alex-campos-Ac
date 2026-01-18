@@ -13,7 +13,7 @@ Ambiente: Jupyter Notebook, Google Colab
 Versionamento: Git e GitHub
 
 ### 📈 Repositórios em Destaque
-- [Analise de Dados](https://github.com/alex-campos-Ac/Curso_Python_DSA)
+- [Analise de Dados]([Analise de Dados](https://github.com/alex-campos-Ac/Analise-de-Dados)
 - [Outras projetos (Java)](https://github.com/SEU-USUARIO/projetos-pessoais)
 
 
