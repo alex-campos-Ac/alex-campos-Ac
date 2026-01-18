@@ -30,7 +30,8 @@ Versionamento: Git e GitHub
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" title="Jupyter"/>
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/Power-BI.png" width="40" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="40" title="SQL"/>
+
   
 
 </div>
