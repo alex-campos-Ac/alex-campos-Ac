@@ -21,7 +21,7 @@ Versionamento: Git e GitHub
 
 ### 📊 GitHub Stats
 
-![AlexCamposSilva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-campos-Ac&show_icons=true&theme=tokyonight)
+![AlexCamposSilva's GitHub Stats](https://github.com/alex-campos-Ac/Analise_de_Dados_Python)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-campos-Ac&layout=compact&theme=tokyonight)
 
 ## 🧰 Tecnologias que utilizo
