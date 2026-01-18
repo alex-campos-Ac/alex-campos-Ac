@@ -1,9 +1,7 @@
 
-# 👋 Olá! Eu sou o Alex Campos
-
-🎓 Estudante de Tecnologia.  
-📌 No momento, estou focado em JAVA, Python, Machine Learning e Projetos Práticos.  
-💡 Já estudei algoritmos como KNN, K-Means, CNN e Regressão Linear.  
+# Olá! Eu sou o Alex Campos 👋
+📊 Aspirante a Analista de Dados
+Atualmente focado em desenvolver projetos práticos com Python, SQL e ferramentas de visualização para transformar dados em insights acionáveis. Tenho estudado temas como limpeza de dados, análise exploratória (EDA) e construção de dashboards interativos  
 
 ### 🚀 Minhas Trilhas de Estudo
 - ☕ Iniciando com Java
